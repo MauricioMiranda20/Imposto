@@ -12,7 +12,7 @@ public class Main {
 		double res;
 				 
 		if(a>=0 && a<=2000) {
-			System.out.println("Inseto");
+			System.out.println("Isneto");
 		}
 		if(a>2000 && a<=3000) {
 			res = (a-2000)*0.8;
